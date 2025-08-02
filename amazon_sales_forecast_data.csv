@@ -1,0 +1,501 @@
+﻿Order ID,Year,Quarter,Month,Day,Week,Week Number,Product,Category,Price,Quantity,Profit,Total Sales,Customer Name,Customer Location,Payment Method
+ORD0123,2024,Qtr 3,August,23,Friday,5,Book,Books,15,3,13.5,45,Chris White,Boston,Gift Card
+ORD0011,2024,Qtr 3,August,17,Saturday,6,Book,Books,15,2,9,30,David Lee,Boston,Amazon Pay
+ORD0070,2025,Qtr 2,April,3,Thursday,4,Book,Books,15,1,4.5,15,Emily Johnson,Boston,Credit Card
+ORD0396,2024,Qtr 3,July,10,Wednesday,3,Book,Books,15,3,13.5,45,Emma Clark,Boston,Credit Card
+ORD0188,2024,Qtr 3,August,14,Wednesday,3,Book,Books,15,1,4.5,15,John Doe,Boston,Amazon Pay
+ORD0176,2024,Qtr 3,September,27,Friday,5,Book,Books,15,1,4.5,15,Michael Brown,Boston,Amazon Pay
+ORD0150,2025,Qtr 1,February,2,Sunday,0,Book,Books,15,4,18,60,Daniel Harris,Chicago,Gift Card
+ORD0193,2024,Qtr 3,September,30,Monday,1,Book,Books,15,5,22.5,75,David Lee,Chicago,Amazon Pay
+ORD0097,2024,Qtr 3,September,25,Wednesday,3,Book,Books,15,5,22.5,75,Olivia Wilson,Chicago,Amazon Pay
+ORD0280,2025,Qtr 1,January,9,Thursday,4,Book,Books,15,3,13.5,45,Olivia Wilson,Chicago,Gift Card
+ORD0302,2024,Qtr 2,April,4,Thursday,4,Book,Books,15,3,13.5,45,Sophia Miller,Chicago,Gift Card
+ORD0349,2025,Qtr 2,April,12,Saturday,6,Book,Books,15,3,13.5,45,Daniel Harris,Dallas,PayPal
+ORD0407,2025,Qtr 2,May,14,Wednesday,3,Book,Books,15,2,9,30,Emily Johnson,Dallas,PayPal
+ORD0060,2025,Qtr 2,June,3,Tuesday,2,Book,Books,15,5,22.5,75,Jane Smith,Dallas,Credit Card
+ORD0374,2023,Qtr 4,October,27,Friday,5,Book,Books,15,1,4.5,15,John Doe,Dallas,Debit Card
+ORD0320,2024,Qtr 3,July,26,Friday,5,Book,Books,15,5,22.5,75,Michael Brown,Dallas,Debit Card
+ORD0262,2024,Qtr 4,November,24,Sunday,0,Book,Books,15,2,9,30,Olivia Wilson,Dallas,PayPal
+ORD0277,2024,Qtr 4,October,25,Friday,5,Book,Books,15,2,9,30,Sophia Miller,Dallas,Debit Card
+ORD0101,2024,Qtr 3,August,20,Tuesday,2,Book,Books,15,5,22.5,75,John Doe,Denver,PayPal
+ORD0023,2024,Qtr 3,August,23,Friday,5,Book,Books,15,1,4.5,15,Emma Clark,Houston,Credit Card
+ORD0051,2024,Qtr 3,August,19,Monday,1,Book,Books,15,1,4.5,15,Emma Clark,Houston,Gift Card
+ORD0455,2024,Qtr 3,July,11,Thursday,4,Book,Books,15,3,13.5,45,Jane Smith,Houston,Amazon Pay
+ORD0448,2023,Qtr 4,October,9,Monday,1,Book,Books,15,5,22.5,75,Michael Brown,Houston,Amazon Pay
+ORD0308,2023,Qtr 4,October,11,Wednesday,3,Book,Books,15,1,4.5,15,Olivia Wilson,Houston,Debit Card
+ORD0367,2024,Qtr 3,July,5,Friday,5,Book,Books,15,2,9,30,Sophia Miller,Houston,Gift Card
+ORD0200,2025,Qtr 2,April,2,Wednesday,3,Book,Books,15,2,9,30,Chris White,Los Angeles,Debit Card
+ORD0443,2023,Qtr 4,October,25,Wednesday,3,Book,Books,15,5,22.5,75,David Lee,Los Angeles,Debit Card
+ORD0305,2024,Qtr 1,January,31,Wednesday,3,Book,Books,15,1,4.5,15,Sophia Miller,Los Angeles,Credit Card
+ORD0184,2024,Qtr 3,August,17,Saturday,6,Book,Books,15,5,22.5,75,Daniel Harris,Miami,Debit Card
+ORD0172,2025,Qtr 2,June,3,Tuesday,2,Book,Books,15,1,4.5,15,David Lee,Miami,Debit Card
+ORD0041,2024,Qtr 3,August,20,Tuesday,2,Book,Books,15,1,4.5,15,Jane Smith,Miami,Credit Card
+ORD0234,2025,Qtr 1,February,3,Monday,1,Book,Books,15,1,4.5,15,Jane Smith,Miami,Amazon Pay
+ORD0272,2024,Qtr 2,June,17,Monday,1,Book,Books,15,1,4.5,15,John Doe,Miami,Amazon Pay
+ORD0346,2024,Qtr 2,May,15,Wednesday,3,Book,Books,15,1,4.5,15,John Doe,Miami,Credit Card
+ORD0341,2023,Qtr 4,October,18,Wednesday,3,Book,Books,15,4,18,60,Daniel Harris,New York,Gift Card
+ORD0165,2024,Qtr 3,September,14,Saturday,6,Book,Books,15,1,4.5,15,David Lee,New York,Amazon Pay
+ORD0252,2025,Qtr 2,May,9,Friday,5,Book,Books,15,2,9,30,David Lee,New York,Debit Card
+ORD0439,2023,Qtr 3,September,12,Tuesday,2,Book,Books,15,3,13.5,45,Emily Johnson,New York,Credit Card
+ORD0333,2024,Qtr 1,February,4,Sunday,0,Book,Books,15,2,9,30,Michael Brown,New York,Credit Card
+ORD0033,2024,Qtr 4,October,2,Wednesday,3,Book,Books,15,1,4.5,15,Olivia Wilson,New York,Debit Card
+ORD0311,2025,Qtr 1,January,23,Thursday,4,Book,Books,15,5,22.5,75,Chris White,San Francisco,Debit Card
+ORD0113,2024,Qtr 3,September,19,Thursday,4,Book,Books,15,5,22.5,75,David Lee,San Francisco,Debit Card
+ORD0177,2024,Qtr 3,September,14,Saturday,6,Book,Books,15,5,22.5,75,David Lee,San Francisco,Credit Card
+ORD0498,2023,Qtr 4,December,14,Thursday,4,Book,Books,15,3,13.5,45,David Lee,San Francisco,Gift Card
+ORD0065,2024,Qtr 3,September,16,Monday,1,Book,Books,15,3,13.5,45,Emma Clark,San Francisco,Amazon Pay
+ORD0201,2024,Qtr 3,September,2,Monday,1,Book,Books,15,4,18,60,Michael Brown,San Francisco,Credit Card
+ORD0293,2024,Qtr 3,September,10,Tuesday,2,Book,Books,15,4,18,60,Olivia Wilson,San Francisco,Debit Card
+ORD0343,2025,Qtr 1,January,8,Wednesday,3,Book,Books,15,5,22.5,75,Olivia Wilson,San Francisco,Gift Card
+ORD0255,2023,Qtr 4,December,3,Sunday,0,Book,Books,15,2,9,30,Emily Johnson,Seattle,Debit Card
+ORD0124,2025,Qtr 2,April,2,Wednesday,3,Book,Books,15,1,4.5,15,Emma Clark,Seattle,Gift Card
+ORD0025,2024,Qtr 3,August,3,Saturday,6,Book,Books,15,5,22.5,75,Sophia Miller,Seattle,Amazon Pay
+ORD0304,2025,Qtr 1,January,21,Tuesday,2,Book,Books,15,1,4.5,15,Sophia Miller,Seattle,Credit Card
+ORD0463,2024,Qtr 4,November,9,Saturday,6,T-Shirt,Clothing,20,4,28,80,Jane Smith,Boston,PayPal
+ORD0307,2023,Qtr 3,August,28,Monday,1,T-Shirt,Clothing,20,2,14,40,John Doe,Boston,PayPal
+ORD0084,2024,Qtr 3,August,14,Wednesday,3,T-Shirt,Clothing,20,5,35,100,Olivia Wilson,Boston,PayPal
+ORD0009,2025,Qtr 1,February,3,Monday,1,T-Shirt,Clothing,20,3,21,60,Sophia Miller,Boston,PayPal
+ORD0475,2024,Qtr 2,June,24,Monday,1,T-Shirt,Clothing,20,1,7,20,Emily Johnson,Chicago,Gift Card
+ORD0294,2023,Qtr 3,July,1,Saturday,6,T-Shirt,Clothing,20,4,28,80,Emma Clark,Chicago,Amazon Pay
+ORD0103,2024,Qtr 3,September,14,Saturday,6,T-Shirt,Clothing,20,2,14,40,Michael Brown,Chicago,PayPal
+ORD0106,2024,Qtr 3,September,15,Sunday,0,T-Shirt,Clothing,20,3,21,60,Olivia Wilson,Chicago,PayPal
+ORD0390,2024,Qtr 2,May,15,Wednesday,3,T-Shirt,Clothing,20,2,14,40,Sophia Miller,Chicago,PayPal
+ORD0185,2024,Qtr 3,September,22,Sunday,0,T-Shirt,Clothing,20,1,7,20,Chris White,Dallas,Debit Card
+ORD0159,2024,Qtr 3,August,16,Friday,5,T-Shirt,Clothing,20,2,14,40,David Lee,Dallas,Gift Card
+ORD0127,2024,Qtr 3,August,18,Sunday,0,T-Shirt,Clothing,20,3,21,60,Emma Clark,Dallas,Debit Card
+ORD0430,2024,Qtr 2,May,18,Saturday,6,T-Shirt,Clothing,20,4,28,80,Jane Smith,Dallas,Gift Card
+ORD0006,2024,Qtr 3,September,14,Saturday,6,T-Shirt,Clothing,20,1,7,20,John Doe,Dallas,Credit Card
+ORD0248,2024,Qtr 4,November,3,Sunday,0,T-Shirt,Clothing,20,2,14,40,Chris White,Denver,Debit Card
+ORD0489,2024,Qtr 1,January,21,Sunday,0,T-Shirt,Clothing,20,3,21,60,Daniel Harris,Denver,PayPal
+ORD0182,2024,Qtr 3,August,4,Sunday,0,T-Shirt,Clothing,20,5,35,100,Emma Clark,Denver,PayPal
+ORD0043,2025,Qtr 1,February,2,Sunday,0,T-Shirt,Clothing,20,4,28,80,Jane Smith,Denver,Credit Card
+ORD0048,2025,Qtr 2,May,2,Friday,5,T-Shirt,Clothing,20,5,35,100,Jane Smith,Denver,Amazon Pay
+ORD0267,2025,Qtr 2,May,7,Wednesday,3,T-Shirt,Clothing,20,3,21,60,Jane Smith,Denver,Debit Card
+ORD0300,2025,Qtr 2,May,9,Friday,5,T-Shirt,Clothing,20,2,14,40,Daniel Harris,Houston,Credit Card
+ORD0429,2023,Qtr 4,October,4,Wednesday,3,T-Shirt,Clothing,20,1,7,20,Emily Johnson,Houston,PayPal
+ORD0212,2025,Qtr 1,March,3,Monday,1,T-Shirt,Clothing,20,4,28,80,Emma Clark,Houston,Debit Card
+ORD0296,2024,Qtr 4,October,27,Sunday,0,T-Shirt,Clothing,20,1,7,20,Michael Brown,Houston,Credit Card
+ORD0336,2025,Qtr 1,January,20,Monday,1,T-Shirt,Clothing,20,5,35,100,Daniel Harris,Los Angeles,Amazon Pay
+ORD0266,2024,Qtr 4,December,19,Thursday,4,T-Shirt,Clothing,20,3,21,60,Michael Brown,Los Angeles,Credit Card
+ORD0047,2024,Qtr 3,September,26,Thursday,4,T-Shirt,Clothing,20,2,14,40,Chris White,Miami,Gift Card
+ORD0246,2024,Qtr 3,September,17,Tuesday,2,T-Shirt,Clothing,20,2,14,40,Daniel Harris,Miami,Debit Card
+ORD0376,2025,Qtr 2,May,11,Sunday,0,T-Shirt,Clothing,20,2,14,40,David Lee,Miami,Debit Card
+ORD0135,2025,Qtr 2,April,2,Wednesday,3,T-Shirt,Clothing,20,1,7,20,Olivia Wilson,Miami,Credit Card
+ORD0027,2025,Qtr 1,January,2,Thursday,4,T-Shirt,Clothing,20,1,7,20,Daniel Harris,New York,Amazon Pay
+ORD0117,2024,Qtr 3,August,27,Tuesday,2,T-Shirt,Clothing,20,1,7,20,Daniel Harris,New York,Credit Card
+ORD0393,2024,Qtr 1,February,22,Thursday,4,T-Shirt,Clothing,20,3,21,60,Emily Johnson,New York,Amazon Pay
+ORD0017,2024,Qtr 3,July,4,Thursday,4,T-Shirt,Clothing,20,1,7,20,Emma Clark,New York,Amazon Pay
+ORD0034,2024,Qtr 3,August,4,Sunday,0,T-Shirt,Clothing,20,5,35,100,Jane Smith,New York,Credit Card
+ORD0292,2025,Qtr 2,May,10,Saturday,6,T-Shirt,Clothing,20,3,21,60,Olivia Wilson,New York,Debit Card
+ORD0470,2025,Qtr 2,April,3,Thursday,4,T-Shirt,Clothing,20,3,21,60,Olivia Wilson,San Francisco,Credit Card
+ORD0408,2023,Qtr 3,September,19,Tuesday,2,T-Shirt,Clothing,20,1,7,20,Daniel Harris,Seattle,PayPal
+ORD0487,2024,Qtr 2,June,11,Tuesday,2,T-Shirt,Clothing,20,3,21,60,Emily Johnson,Seattle,PayPal
+ORD0436,2024,Qtr 2,April,27,Saturday,6,T-Shirt,Clothing,20,1,7,20,Emma Clark,Seattle,Amazon Pay
+ORD0288,2025,Qtr 1,February,7,Friday,5,T-Shirt,Clothing,20,2,14,40,Jane Smith,Seattle,Credit Card
+ORD0332,2024,Qtr 2,June,13,Thursday,4,T-Shirt,Clothing,20,5,35,100,Olivia Wilson,Seattle,Credit Card
+ORD0325,2025,Qtr 1,March,11,Tuesday,2,Jeans,Clothing,40,2,28,80,Chris White,Boston,PayPal
+ORD0414,2025,Qtr 1,February,15,Saturday,6,Jeans,Clothing,40,4,56,160,Chris White,Boston,Gift Card
+ORD0483,2024,Qtr 1,March,25,Monday,1,Jeans,Clothing,40,4,56,160,Chris White,Boston,Gift Card
+ORD0428,2024,Qtr 1,January,9,Tuesday,2,Jeans,Clothing,40,2,28,80,Daniel Harris,Boston,PayPal
+ORD0279,2023,Qtr 4,October,17,Tuesday,2,Jeans,Clothing,40,1,14,40,Emily Johnson,Boston,Debit Card
+ORD0263,2023,Qtr 3,August,29,Tuesday,2,Jeans,Clothing,40,2,28,80,Emma Clark,Boston,Amazon Pay
+ORD0105,2024,Qtr 3,September,16,Monday,1,Jeans,Clothing,40,1,14,40,Jane Smith,Boston,Debit Card
+ORD0050,2024,Qtr 3,September,14,Saturday,6,Jeans,Clothing,40,3,42,120,John Doe,Boston,Gift Card
+ORD0216,2024,Qtr 3,September,26,Thursday,4,Jeans,Clothing,40,2,28,80,Chris White,Chicago,Credit Card
+ORD0131,2024,Qtr 3,August,26,Monday,1,Jeans,Clothing,40,2,28,80,Daniel Harris,Chicago,Credit Card
+ORD0344,2024,Qtr 1,January,4,Thursday,4,Jeans,Clothing,40,5,70,200,Daniel Harris,Chicago,Debit Card
+ORD0457,2025,Qtr 1,January,9,Thursday,4,Jeans,Clothing,40,2,28,80,Sophia Miller,Chicago,Amazon Pay
+ORD0209,2024,Qtr 3,September,29,Sunday,0,Jeans,Clothing,40,5,70,200,Daniel Harris,Dallas,PayPal
+ORD0104,2024,Qtr 3,August,22,Thursday,4,Jeans,Clothing,40,5,70,200,Jane Smith,Dallas,Debit Card
+ORD0012,2024,Qtr 3,September,13,Friday,5,Jeans,Clothing,40,4,56,160,Michael Brown,Dallas,Credit Card
+ORD0107,2024,Qtr 3,September,19,Thursday,4,Jeans,Clothing,40,3,42,120,Olivia Wilson,Dallas,Credit Card
+ORD0055,2024,Qtr 3,September,15,Sunday,0,Jeans,Clothing,40,2,28,80,Sophia Miller,Dallas,PayPal
+ORD0247,2024,Qtr 3,September,30,Monday,1,Jeans,Clothing,40,1,14,40,Sophia Miller,Dallas,Debit Card
+ORD0223,2024,Qtr 3,September,24,Tuesday,2,Jeans,Clothing,40,2,28,80,David Lee,Denver,Amazon Pay
+ORD0405,2024,Qtr 2,May,6,Monday,1,Jeans,Clothing,40,3,42,120,Emily Johnson,Denver,Debit Card
+ORD0481,2024,Qtr 4,October,20,Sunday,0,Jeans,Clothing,40,5,70,200,Emma Clark,Denver,Gift Card
+ORD0274,2023,Qtr 3,August,16,Wednesday,3,Jeans,Clothing,40,1,14,40,John Doe,Denver,Credit Card
+ORD0368,2023,Qtr 4,November,18,Saturday,6,Jeans,Clothing,40,3,42,120,Michael Brown,Denver,PayPal
+ORD0418,2024,Qtr 1,February,17,Saturday,6,Jeans,Clothing,40,3,42,120,Chris White,Houston,Gift Card
+ORD0331,2024,Qtr 3,September,24,Tuesday,2,Jeans,Clothing,40,2,28,80,Jane Smith,Houston,Debit Card
+ORD0442,2025,Qtr 2,May,7,Wednesday,3,Jeans,Clothing,40,2,28,80,Sophia Miller,Houston,Debit Card
+ORD0144,2024,Qtr 3,August,27,Tuesday,2,Jeans,Clothing,40,2,28,80,Michael Brown,Los Angeles,Gift Card
+ORD0447,2024,Qtr 4,October,25,Friday,5,Jeans,Clothing,40,1,14,40,Emma Clark,Miami,Debit Card
+ORD0269,2023,Qtr 3,August,4,Friday,5,Jeans,Clothing,40,3,42,120,Olivia Wilson,Miami,Credit Card
+ORD0330,2024,Qtr 2,May,10,Friday,5,Jeans,Clothing,40,5,70,200,Olivia Wilson,Miami,Credit Card
+ORD0175,2024,Qtr 3,September,24,Tuesday,2,Jeans,Clothing,40,5,70,200,David Lee,New York,Debit Card
+ORD0449,2025,Qtr 1,February,4,Tuesday,2,Jeans,Clothing,40,4,56,160,David Lee,New York,Amazon Pay
+ORD0129,2024,Qtr 3,August,26,Monday,1,Jeans,Clothing,40,5,70,200,Emily Johnson,New York,Debit Card
+ORD0109,2024,Qtr 3,September,17,Tuesday,2,Jeans,Clothing,40,5,70,200,Michael Brown,New York,PayPal
+ORD0423,2024,Qtr 1,March,3,Sunday,0,Jeans,Clothing,40,2,28,80,Michael Brown,New York,Gift Card
+ORD0437,2025,Qtr 2,May,17,Saturday,6,Jeans,Clothing,40,3,42,120,Olivia Wilson,New York,Gift Card
+ORD0225,2025,Qtr 2,May,3,Saturday,6,Jeans,Clothing,40,1,14,40,Sophia Miller,New York,Gift Card
+ORD0329,2024,Qtr 2,June,14,Friday,5,Jeans,Clothing,40,4,56,160,Emma Clark,San Francisco,PayPal
+ORD0194,2024,Qtr 3,August,20,Tuesday,2,Jeans,Clothing,40,4,56,160,John Doe,San Francisco,Debit Card
+ORD0321,2024,Qtr 4,December,1,Sunday,0,Jeans,Clothing,40,1,14,40,John Doe,San Francisco,Gift Card
+ORD0094,2024,Qtr 3,September,25,Wednesday,3,Jeans,Clothing,40,5,70,200,Daniel Harris,Seattle,Credit Card
+ORD0495,2024,Qtr 3,July,21,Sunday,0,Jeans,Clothing,40,1,14,40,Emily Johnson,Seattle,Amazon Pay
+ORD0191,2024,Qtr 3,August,28,Wednesday,3,Jeans,Clothing,40,4,56,160,John Doe,Seattle,Amazon Pay
+ORD0179,2024,Qtr 3,September,25,Wednesday,3,Jeans,Clothing,40,1,14,40,Olivia Wilson,Seattle,PayPal
+ORD0233,2024,Qtr 3,August,20,Tuesday,2,Running Shoes,Footwear,60,1,24,60,David Lee,Boston,PayPal
+ORD0358,2023,Qtr 4,December,20,Wednesday,3,Running Shoes,Footwear,60,5,120,300,David Lee,Boston,PayPal
+ORD0217,2024,Qtr 3,September,19,Thursday,4,Running Shoes,Footwear,60,2,48,120,Emma Clark,Boston,Gift Card
+ORD0490,2024,Qtr 3,August,2,Friday,5,Running Shoes,Footwear,60,3,72,180,Michael Brown,Boston,Amazon Pay
+ORD0363,2024,Qtr 4,December,14,Saturday,6,Running Shoes,Footwear,60,1,24,60,Olivia Wilson,Boston,Debit Card
+ORD0226,2024,Qtr 4,November,3,Sunday,0,Running Shoes,Footwear,60,4,96,240,Chris White,Chicago,Amazon Pay
+ORD0499,2024,Qtr 3,July,27,Saturday,6,Running Shoes,Footwear,60,4,96,240,Michael Brown,Chicago,Amazon Pay
+ORD0357,2023,Qtr 4,December,17,Sunday,0,Running Shoes,Footwear,60,1,24,60,Emily Johnson,Dallas,Gift Card
+ORD0360,2024,Qtr 3,August,22,Thursday,4,Running Shoes,Footwear,60,1,24,60,Emma Clark,Dallas,Debit Card
+ORD0147,2024,Qtr 4,November,2,Saturday,6,Running Shoes,Footwear,60,5,120,300,Jane Smith,Dallas,PayPal
+ORD0004,2024,Qtr 3,August,19,Monday,1,Running Shoes,Footwear,60,3,72,180,Olivia Wilson,Dallas,Credit Card
+ORD0371,2024,Qtr 2,April,18,Thursday,4,Running Shoes,Footwear,60,2,48,120,David Lee,Denver,Debit Card
+ORD0446,2025,Qtr 1,March,20,Thursday,4,Running Shoes,Footwear,60,5,120,300,David Lee,Denver,Debit Card
+ORD0079,2025,Qtr 1,March,3,Monday,1,Running Shoes,Footwear,60,2,48,120,Emily Johnson,Denver,Gift Card
+ORD0003,2024,Qtr 3,August,15,Thursday,4,Running Shoes,Footwear,60,2,48,120,John Doe,Denver,Amazon Pay
+ORD0197,2025,Qtr 2,June,3,Tuesday,2,Running Shoes,Footwear,60,2,48,120,Michael Brown,Denver,Gift Card
+ORD0163,2024,Qtr 3,August,20,Tuesday,2,Running Shoes,Footwear,60,2,48,120,Chris White,Houston,PayPal
+ORD0243,2024,Qtr 4,November,3,Sunday,0,Running Shoes,Footwear,60,2,48,120,Chris White,Houston,Amazon Pay
+ORD0273,2024,Qtr 3,August,16,Friday,5,Running Shoes,Footwear,60,2,48,120,Chris White,Houston,Debit Card
+ORD0375,2024,Qtr 4,November,2,Saturday,6,Running Shoes,Footwear,60,3,72,180,Daniel Harris,Houston,Debit Card
+ORD0046,2024,Qtr 4,December,3,Tuesday,2,Running Shoes,Footwear,60,2,48,120,David Lee,Houston,Debit Card
+ORD0114,2024,Qtr 3,August,23,Friday,5,Running Shoes,Footwear,60,1,24,60,Emma Clark,Houston,Credit Card
+ORD0215,2025,Qtr 1,January,3,Friday,5,Running Shoes,Footwear,60,1,24,60,Emma Clark,Houston,PayPal
+ORD0100,2024,Qtr 3,August,13,Tuesday,2,Running Shoes,Footwear,60,1,24,60,Jane Smith,Houston,Gift Card
+ORD0399,2024,Qtr 4,October,14,Monday,1,Running Shoes,Footwear,60,4,96,240,Jane Smith,Houston,Credit Card
+ORD0466,2024,Qtr 1,March,11,Monday,1,Running Shoes,Footwear,60,2,48,120,Jane Smith,Houston,PayPal
+ORD0472,2023,Qtr 3,August,25,Friday,5,Running Shoes,Footwear,60,3,72,180,Michael Brown,Houston,Credit Card
+ORD0019,2024,Qtr 3,September,22,Sunday,0,Running Shoes,Footwear,60,3,72,180,Olivia Wilson,Houston,Credit Card
+ORD0190,2024,Qtr 3,August,23,Friday,5,Running Shoes,Footwear,60,1,24,60,Sophia Miller,Houston,PayPal
+ORD0493,2024,Qtr 1,February,2,Friday,5,Running Shoes,Footwear,60,2,48,120,Chris White,Los Angeles,Credit Card
+ORD0482,2024,Qtr 1,March,25,Monday,1,Running Shoes,Footwear,60,4,96,240,Daniel Harris,Los Angeles,PayPal
+ORD0181,2024,Qtr 3,September,3,Tuesday,2,Running Shoes,Footwear,60,2,48,120,David Lee,Los Angeles,Debit Card
+ORD0338,2024,Qtr 3,September,27,Friday,5,Running Shoes,Footwear,60,2,48,120,David Lee,Los Angeles,Amazon Pay
+ORD0413,2023,Qtr 3,July,6,Thursday,4,Running Shoes,Footwear,60,5,120,300,David Lee,Los Angeles,Debit Card
+ORD0053,2024,Qtr 3,September,24,Tuesday,2,Running Shoes,Footwear,60,4,96,240,Emily Johnson,Los Angeles,PayPal
+ORD0089,2024,Qtr 3,September,26,Thursday,4,Running Shoes,Footwear,60,5,120,300,Emma Clark,Los Angeles,Credit Card
+ORD0435,2025,Qtr 2,April,30,Wednesday,3,Running Shoes,Footwear,60,3,72,180,Daniel Harris,Miami,PayPal
+ORD0411,2023,Qtr 3,August,19,Saturday,6,Running Shoes,Footwear,60,3,72,180,Emily Johnson,Miami,Debit Card
+ORD0087,2024,Qtr 3,September,13,Friday,5,Running Shoes,Footwear,60,5,120,300,Emma Clark,Miami,Debit Card
+ORD0204,2025,Qtr 1,February,3,Monday,1,Running Shoes,Footwear,60,5,120,300,Jane Smith,Miami,Gift Card
+ORD0391,2023,Qtr 3,September,9,Saturday,6,Running Shoes,Footwear,60,2,48,120,Jane Smith,Miami,Credit Card
+ORD0115,2024,Qtr 3,September,21,Saturday,6,Running Shoes,Footwear,60,3,72,180,Olivia Wilson,Miami,Amazon Pay
+ORD0001,2024,Qtr 3,September,14,Saturday,6,Running Shoes,Footwear,60,3,72,180,Emma Clark,New York,Debit Card
+ORD0462,2024,Qtr 3,July,28,Sunday,0,Running Shoes,Footwear,60,5,120,300,Emma Clark,New York,Debit Card
+ORD0149,2024,Qtr 3,September,20,Friday,5,Running Shoes,Footwear,60,3,72,180,Michael Brown,New York,Gift Card
+ORD0228,2025,Qtr 2,June,2,Monday,1,Running Shoes,Footwear,60,1,24,60,David Lee,San Francisco,Credit Card
+ORD0369,2025,Qtr 1,February,4,Tuesday,2,Running Shoes,Footwear,60,4,96,240,David Lee,San Francisco,Debit Card
+ORD0229,2024,Qtr 3,September,21,Saturday,6,Running Shoes,Footwear,60,3,72,180,Emma Clark,San Francisco,Credit Card
+ORD0080,2024,Qtr 3,August,23,Friday,5,Running Shoes,Footwear,60,4,96,240,Sophia Miller,San Francisco,Debit Card
+ORD0496,2024,Qtr 2,April,21,Sunday,0,Running Shoes,Footwear,60,5,120,300,Emily Johnson,Seattle,Amazon Pay
+ORD0361,2025,Qtr 1,March,27,Thursday,4,Running Shoes,Footwear,60,3,72,180,Michael Brown,Seattle,Credit Card
+ORD0284,2024,Qtr 2,April,5,Friday,5,Running Shoes,Footwear,60,4,96,240,Olivia Wilson,Seattle,Debit Card
+ORD0075,2024,Qtr 3,August,26,Monday,1,Headphones,Electronics,100,2,50,200,Daniel Harris,Boston,PayPal
+ORD0379,2024,Qtr 3,July,15,Monday,1,Headphones,Electronics,100,3,75,300,David Lee,Boston,Amazon Pay
+ORD0406,2025,Qtr 1,January,2,Thursday,4,Headphones,Electronics,100,1,25,100,David Lee,Boston,PayPal
+ORD0316,2024,Qtr 2,June,9,Sunday,0,Headphones,Electronics,100,1,25,100,Emily Johnson,Boston,Gift Card
+ORD0028,2024,Qtr 3,September,2,Monday,1,Headphones,Electronics,100,1,25,100,Jane Smith,Chicago,Amazon Pay
+ORD0042,2024,Qtr 3,September,17,Tuesday,2,Headphones,Electronics,100,3,75,300,Jane Smith,Chicago,Amazon Pay
+ORD0356,2023,Qtr 3,August,14,Monday,1,Headphones,Electronics,100,3,75,300,John Doe,Chicago,Credit Card
+ORD0081,2024,Qtr 3,August,26,Monday,1,Headphones,Electronics,100,3,75,300,Michael Brown,Chicago,PayPal
+ORD0291,2024,Qtr 4,December,24,Tuesday,2,Headphones,Electronics,100,2,50,200,Sophia Miller,Chicago,Debit Card
+ORD0366,2024,Qtr 2,May,2,Thursday,4,Headphones,Electronics,100,5,125,500,Emily Johnson,Dallas,PayPal
+ORD0345,2024,Qtr 1,February,28,Wednesday,3,Headphones,Electronics,100,3,75,300,Emma Clark,Dallas,Gift Card
+ORD0260,2024,Qtr 2,April,6,Saturday,6,Headphones,Electronics,100,4,100,400,John Doe,Dallas,Gift Card
+ORD0192,2024,Qtr 3,September,30,Monday,1,Headphones,Electronics,100,3,75,300,Sophia Miller,Dallas,Gift Card
+ORD0276,2023,Qtr 4,November,17,Friday,5,Headphones,Electronics,100,3,75,300,Daniel Harris,Denver,Amazon Pay
+ORD0468,2024,Qtr 1,February,26,Monday,1,Headphones,Electronics,100,1,25,100,Daniel Harris,Denver,Credit Card
+ORD0275,2024,Qtr 4,October,24,Thursday,4,Headphones,Electronics,100,1,25,100,Emily Johnson,Denver,Amazon Pay
+ORD0355,2024,Qtr 1,March,30,Saturday,6,Headphones,Electronics,100,3,75,300,Emily Johnson,Denver,Amazon Pay
+ORD0154,2024,Qtr 3,July,3,Wednesday,3,Headphones,Electronics,100,2,50,200,John Doe,Denver,Debit Card
+ORD0238,2024,Qtr 3,September,16,Monday,1,Headphones,Electronics,100,1,25,100,Olivia Wilson,Denver,PayPal
+ORD0077,2024,Qtr 3,September,20,Friday,5,Headphones,Electronics,100,2,50,200,Daniel Harris,Houston,Credit Card
+ORD0334,2024,Qtr 2,May,20,Monday,1,Headphones,Electronics,100,5,125,500,Daniel Harris,Houston,Gift Card
+ORD0068,2024,Qtr 3,August,23,Friday,5,Headphones,Electronics,100,1,25,100,David Lee,Houston,Debit Card
+ORD0205,2024,Qtr 3,August,27,Tuesday,2,Headphones,Electronics,100,2,50,200,David Lee,Houston,PayPal
+ORD0219,2024,Qtr 3,August,17,Saturday,6,Headphones,Electronics,100,3,75,300,David Lee,Houston,PayPal
+ORD0298,2024,Qtr 1,January,27,Saturday,6,Headphones,Electronics,100,1,25,100,Jane Smith,Houston,Credit Card
+ORD0118,2025,Qtr 2,April,2,Wednesday,3,Headphones,Electronics,100,5,125,500,John Doe,Houston,Amazon Pay
+ORD0237,2025,Qtr 2,May,2,Friday,5,Headphones,Electronics,100,3,75,300,Michael Brown,Houston,Debit Card
+ORD0256,2024,Qtr 3,July,2,Tuesday,2,Headphones,Electronics,100,5,125,500,Sophia Miller,Houston,Amazon Pay
+ORD0394,2023,Qtr 4,November,7,Tuesday,2,Headphones,Electronics,100,5,125,500,Sophia Miller,Houston,Amazon Pay
+ORD0403,2024,Qtr 1,January,28,Sunday,0,Headphones,Electronics,100,2,50,200,Sophia Miller,Houston,PayPal
+ORD0404,2024,Qtr 2,June,8,Saturday,6,Headphones,Electronics,100,2,50,200,David Lee,Los Angeles,Gift Card
+ORD0148,2024,Qtr 4,December,2,Monday,1,Headphones,Electronics,100,4,100,400,Emily Johnson,Los Angeles,Amazon Pay
+ORD0161,2024,Qtr 3,August,22,Thursday,4,Headphones,Electronics,100,1,25,100,Emily Johnson,Los Angeles,Credit Card
+ORD0427,2024,Qtr 4,December,29,Sunday,0,Headphones,Electronics,100,4,100,400,John Doe,Los Angeles,Gift Card
+ORD0438,2024,Qtr 3,July,15,Monday,1,Headphones,Electronics,100,3,75,300,Olivia Wilson,Los Angeles,Debit Card
+ORD0021,2024,Qtr 4,November,2,Saturday,6,Headphones,Electronics,100,3,75,300,Chris White,Miami,Debit Card
+ORD0108,2024,Qtr 3,September,16,Monday,1,Headphones,Electronics,100,2,50,200,Daniel Harris,Miami,PayPal
+ORD0270,2024,Qtr 2,June,15,Saturday,6,Headphones,Electronics,100,4,100,400,David Lee,Miami,Debit Card
+ORD0227,2024,Qtr 3,August,4,Sunday,0,Headphones,Electronics,100,5,125,500,Emma Clark,Miami,Amazon Pay
+ORD0067,2024,Qtr 3,September,30,Monday,1,Headphones,Electronics,100,3,75,300,Chris White,New York,Debit Card
+ORD0353,2023,Qtr 4,November,28,Tuesday,2,Headphones,Electronics,100,5,125,500,Chris White,New York,Credit Card
+ORD0218,2024,Qtr 3,August,15,Thursday,4,Headphones,Electronics,100,4,100,400,Daniel Harris,New York,Gift Card
+ORD0426,2024,Qtr 1,February,13,Tuesday,2,Headphones,Electronics,100,5,125,500,Jane Smith,New York,PayPal
+ORD0348,2023,Qtr 4,November,29,Wednesday,3,Headphones,Electronics,100,4,100,400,John Doe,New York,Gift Card
+ORD0037,2024,Qtr 3,August,16,Friday,5,Headphones,Electronics,100,3,75,300,Michael Brown,New York,Debit Card
+ORD0352,2023,Qtr 4,October,25,Wednesday,3,Headphones,Electronics,100,2,50,200,Daniel Harris,San Francisco,Debit Card
+ORD0002,2024,Qtr 3,September,20,Friday,5,Headphones,Electronics,100,4,100,400,Emily Johnson,San Francisco,Debit Card
+ORD0451,2024,Qtr 1,March,3,Sunday,0,Headphones,Electronics,100,3,75,300,Emily Johnson,San Francisco,Gift Card
+ORD0230,2024,Qtr 3,September,30,Monday,1,Headphones,Electronics,100,4,100,400,Jane Smith,San Francisco,Amazon Pay
+ORD0452,2024,Qtr 2,June,1,Saturday,6,Headphones,Electronics,100,2,50,200,Olivia Wilson,San Francisco,Amazon Pay
+ORD0342,2025,Qtr 1,February,9,Sunday,0,Headphones,Electronics,100,4,100,400,Sophia Miller,San Francisco,Amazon Pay
+ORD0196,2024,Qtr 4,October,3,Thursday,4,Headphones,Electronics,100,5,125,500,Daniel Harris,Seattle,Debit Card
+ORD0020,2025,Qtr 1,January,3,Friday,5,Headphones,Electronics,100,4,100,400,Olivia Wilson,Seattle,Debit Card
+ORD0054,2024,Qtr 3,September,15,Sunday,0,Smartwatch,Electronics,150,3,112.5,450,David Lee,Boston,Gift Card
+ORD0130,2025,Qtr 2,April,2,Wednesday,3,Smartwatch,Electronics,150,5,187.5,750,David Lee,Boston,PayPal
+ORD0146,2024,Qtr 3,September,25,Wednesday,3,Smartwatch,Electronics,150,2,75,300,Emma Clark,Boston,Debit Card
+ORD0381,2024,Qtr 4,December,13,Friday,5,Smartwatch,Electronics,150,3,112.5,450,John Doe,Boston,Gift Card
+ORD0164,2024,Qtr 3,August,25,Sunday,0,Smartwatch,Electronics,150,5,187.5,750,Michael Brown,Boston,Debit Card
+ORD0370,2023,Qtr 4,October,26,Thursday,4,Smartwatch,Electronics,150,2,75,300,Michael Brown,Boston,Debit Card
+ORD0500,2024,Qtr 1,February,17,Saturday,6,Smartwatch,Electronics,150,3,112.5,450,Chris White,Chicago,Amazon Pay
+ORD0174,2024,Qtr 3,September,13,Friday,5,Smartwatch,Electronics,150,2,75,300,David Lee,Chicago,Debit Card
+ORD0059,2024,Qtr 3,July,4,Thursday,4,Smartwatch,Electronics,150,2,75,300,Daniel Harris,Dallas,Credit Card
+ORD0128,2024,Qtr 3,September,23,Monday,1,Smartwatch,Electronics,150,2,75,300,Emily Johnson,Dallas,PayPal
+ORD0056,2024,Qtr 3,September,19,Thursday,4,Smartwatch,Electronics,150,2,75,300,Emma Clark,Dallas,Credit Card
+ORD0086,2024,Qtr 3,August,25,Sunday,0,Smartwatch,Electronics,150,5,187.5,750,Jane Smith,Dallas,PayPal
+ORD0456,2024,Qtr 4,October,5,Saturday,6,Smartwatch,Electronics,150,5,187.5,750,John Doe,Dallas,Gift Card
+ORD0071,2024,Qtr 3,September,16,Monday,1,Smartwatch,Electronics,150,5,187.5,750,John Doe,Denver,Credit Card
+ORD0240,2025,Qtr 1,March,2,Sunday,0,Smartwatch,Electronics,150,1,37.5,150,John Doe,Denver,Gift Card
+ORD0066,2024,Qtr 3,September,14,Saturday,6,Smartwatch,Electronics,150,2,75,300,Michael Brown,Denver,PayPal
+ORD0220,2025,Qtr 2,April,2,Wednesday,3,Smartwatch,Electronics,150,3,112.5,450,Michael Brown,Denver,Debit Card
+ORD0454,2024,Qtr 1,February,3,Saturday,6,Smartwatch,Electronics,150,3,112.5,450,Olivia Wilson,Denver,Credit Card
+ORD0044,2024,Qtr 3,September,24,Tuesday,2,Smartwatch,Electronics,150,1,37.5,150,Chris White,Houston,Debit Card
+ORD0171,2024,Qtr 3,August,28,Wednesday,3,Smartwatch,Electronics,150,2,75,300,Daniel Harris,Houston,PayPal
+ORD0239,2024,Qtr 3,September,22,Sunday,0,Smartwatch,Electronics,150,5,187.5,750,Daniel Harris,Houston,Amazon Pay
+ORD0090,2024,Qtr 3,September,24,Tuesday,2,Smartwatch,Electronics,150,5,187.5,750,Emily Johnson,Houston,Amazon Pay
+ORD0214,2024,Qtr 3,August,18,Sunday,0,Smartwatch,Electronics,150,5,187.5,750,Emily Johnson,Houston,Debit Card
+ORD0007,2024,Qtr 3,September,18,Wednesday,3,Smartwatch,Electronics,150,4,150,600,Emma Clark,Houston,PayPal
+ORD0424,2024,Qtr 3,August,20,Tuesday,2,Smartwatch,Electronics,150,3,112.5,450,Sophia Miller,Houston,Amazon Pay
+ORD0479,2023,Qtr 3,September,7,Thursday,4,Smartwatch,Electronics,150,1,37.5,150,Chris White,Los Angeles,Amazon Pay
+ORD0387,2025,Qtr 2,April,3,Thursday,4,Smartwatch,Electronics,150,2,75,300,Emily Johnson,Los Angeles,Gift Card
+ORD0453,2024,Qtr 4,October,12,Saturday,6,Smartwatch,Electronics,150,5,187.5,750,Emily Johnson,Los Angeles,Debit Card
+ORD0078,2024,Qtr 3,September,18,Wednesday,3,Smartwatch,Electronics,150,2,75,300,Emma Clark,Los Angeles,Gift Card
+ORD0138,2025,Qtr 2,May,2,Friday,5,Smartwatch,Electronics,150,5,187.5,750,John Doe,Los Angeles,Credit Card
+ORD0285,2024,Qtr 4,November,28,Thursday,4,Smartwatch,Electronics,150,4,150,600,Michael Brown,Los Angeles,Amazon Pay
+ORD0098,2024,Qtr 3,August,14,Wednesday,3,Smartwatch,Electronics,150,2,75,300,Chris White,Miami,PayPal
+ORD0380,2024,Qtr 1,March,8,Friday,5,Smartwatch,Electronics,150,3,112.5,450,Emily Johnson,Miami,Credit Card
+ORD0140,2024,Qtr 3,September,19,Thursday,4,Smartwatch,Electronics,150,2,75,300,Olivia Wilson,Miami,Debit Card
+ORD0156,2024,Qtr 3,September,16,Monday,1,Smartwatch,Electronics,150,4,150,600,Olivia Wilson,Miami,PayPal
+ORD0095,2024,Qtr 3,August,17,Saturday,6,Smartwatch,Electronics,150,4,150,600,Chris White,New York,Debit Card
+ORD0261,2024,Qtr 2,May,13,Monday,1,Smartwatch,Electronics,150,3,112.5,450,Daniel Harris,New York,PayPal
+ORD0249,2025,Qtr 1,February,3,Monday,1,Smartwatch,Electronics,150,3,112.5,450,Emily Johnson,New York,Debit Card
+ORD0005,2025,Qtr 2,April,3,Thursday,4,Smartwatch,Electronics,150,3,112.5,450,Emma Clark,New York,Debit Card
+ORD0096,2024,Qtr 3,September,30,Monday,1,Smartwatch,Electronics,150,3,112.5,450,Jane Smith,New York,Amazon Pay
+ORD0364,2024,Qtr 4,October,2,Wednesday,3,Smartwatch,Electronics,150,1,37.5,150,Jane Smith,New York,Credit Card
+ORD0372,2025,Qtr 1,March,10,Monday,1,Smartwatch,Electronics,150,2,75,300,Michael Brown,New York,Debit Card
+ORD0471,2025,Qtr 2,May,24,Saturday,6,Smartwatch,Electronics,150,5,187.5,750,Olivia Wilson,New York,Credit Card
+ORD0303,2023,Qtr 3,August,18,Friday,5,Smartwatch,Electronics,150,4,150,600,David Lee,San Francisco,Gift Card
+ORD0137,2024,Qtr 3,September,20,Friday,5,Smartwatch,Electronics,150,3,112.5,450,Sophia Miller,San Francisco,Debit Card
+ORD0153,2024,Qtr 3,August,23,Friday,5,Smartwatch,Electronics,150,5,187.5,750,Sophia Miller,San Francisco,PayPal
+ORD0389,2025,Qtr 1,March,24,Monday,1,Smartwatch,Electronics,150,3,112.5,450,Daniel Harris,Seattle,Amazon Pay
+ORD0040,2024,Qtr 3,September,26,Thursday,4,Smartwatch,Electronics,150,1,37.5,150,Emily Johnson,Seattle,Gift Card
+ORD0015,2024,Qtr 3,August,20,Tuesday,2,Smartwatch,Electronics,150,4,150,600,John Doe,Seattle,Credit Card
+ORD0152,2024,Qtr 3,August,28,Wednesday,3,Smartwatch,Electronics,150,1,37.5,150,John Doe,Seattle,Gift Card
+ORD0324,2024,Qtr 2,May,30,Thursday,4,Smartwatch,Electronics,150,3,112.5,450,John Doe,Seattle,Credit Card
+ORD0145,2025,Qtr 1,February,3,Monday,1,Smartwatch,Electronics,150,2,75,300,Michael Brown,Seattle,Debit Card
+ORD0242,2025,Qtr 1,February,3,Monday,1,Smartphone,Electronics,500,4,500,2000,Chris White,Boston,Gift Card
+ORD0102,2024,Qtr 3,August,28,Wednesday,3,Smartphone,Electronics,500,2,250,1000,David Lee,Boston,PayPal
+ORD0236,2024,Qtr 4,November,3,Sunday,0,Smartphone,Electronics,500,5,625,2500,John Doe,Boston,PayPal
+ORD0295,2024,Qtr 4,December,4,Wednesday,3,Smartphone,Electronics,500,5,625,2500,John Doe,Boston,Amazon Pay
+ORD0444,2024,Qtr 3,September,12,Thursday,4,Smartphone,Electronics,500,5,625,2500,Michael Brown,Boston,Debit Card
+ORD0092,2024,Qtr 3,September,15,Sunday,0,Smartphone,Electronics,500,2,250,1000,Olivia Wilson,Boston,PayPal
+ORD0119,2024,Qtr 3,September,16,Monday,1,Smartphone,Electronics,500,2,250,1000,Chris White,Chicago,PayPal
+ORD0134,2025,Qtr 1,January,2,Thursday,4,Smartphone,Electronics,500,5,625,2500,David Lee,Chicago,Gift Card
+ORD0178,2024,Qtr 4,December,2,Monday,1,Smartphone,Electronics,500,3,375,1500,Emily Johnson,Chicago,PayPal
+ORD0049,2024,Qtr 3,August,18,Sunday,0,Smartphone,Electronics,500,4,500,2000,Emma Clark,Chicago,Debit Card
+ORD0283,2023,Qtr 3,August,6,Sunday,0,Smartphone,Electronics,500,5,625,2500,Emma Clark,Chicago,Amazon Pay
+ORD0058,2024,Qtr 3,September,13,Friday,5,Smartphone,Electronics,500,1,125,500,Jane Smith,Chicago,PayPal
+ORD0497,2023,Qtr 4,October,8,Sunday,0,Smartphone,Electronics,500,5,625,2500,Michael Brown,Chicago,Credit Card
+ORD0132,2025,Qtr 1,January,3,Friday,5,Smartphone,Electronics,500,2,250,1000,Olivia Wilson,Chicago,Debit Card
+ORD0162,2025,Qtr 1,March,2,Sunday,0,Smartphone,Electronics,500,2,250,1000,Olivia Wilson,Chicago,Credit Card
+ORD0199,2024,Qtr 3,August,22,Thursday,4,Smartphone,Electronics,500,3,375,1500,Chris White,Dallas,Credit Card
+ORD0484,2024,Qtr 4,November,30,Saturday,6,Smartphone,Electronics,500,5,625,2500,David Lee,Dallas,Debit Card
+ORD0388,2024,Qtr 2,May,11,Saturday,6,Smartphone,Electronics,500,1,125,500,Jane Smith,Dallas,Debit Card
+ORD0121,2024,Qtr 3,August,18,Sunday,0,Smartphone,Electronics,500,1,125,500,John Doe,Dallas,Gift Card
+ORD0110,2024,Qtr 3,August,18,Sunday,0,Smartphone,Electronics,500,5,625,2500,Olivia Wilson,Dallas,Amazon Pay
+ORD0420,2025,Qtr 1,January,14,Tuesday,2,Smartphone,Electronics,500,4,500,2000,Daniel Harris,Denver,Credit Card
+ORD0259,2025,Qtr 1,January,5,Sunday,0,Smartphone,Electronics,500,3,375,1500,David Lee,Denver,Gift Card
+ORD0125,2024,Qtr 3,August,23,Friday,5,Smartphone,Electronics,500,1,125,500,Emily Johnson,Denver,Amazon Pay
+ORD0309,2024,Qtr 4,October,28,Monday,1,Smartphone,Electronics,500,3,375,1500,Emily Johnson,Denver,Credit Card
+ORD0195,2025,Qtr 2,April,3,Thursday,4,Smartphone,Electronics,500,3,375,1500,Olivia Wilson,Denver,Gift Card
+ORD0029,2025,Qtr 2,June,2,Monday,1,Smartphone,Electronics,500,1,125,500,Sophia Miller,Denver,Credit Card
+ORD0157,2025,Qtr 1,February,2,Sunday,0,Smartphone,Electronics,500,3,375,1500,Sophia Miller,Denver,Credit Card
+ORD0337,2023,Qtr 4,October,14,Saturday,6,Smartphone,Electronics,500,1,125,500,Chris White,Houston,Gift Card
+ORD0318,2023,Qtr 3,September,17,Sunday,0,Smartphone,Electronics,500,1,125,500,David Lee,Houston,PayPal
+ORD0244,2024,Qtr 4,December,2,Monday,1,Smartphone,Electronics,500,4,500,2000,Emma Clark,Houston,Credit Card
+ORD0031,2024,Qtr 3,September,24,Tuesday,2,Smartphone,Electronics,500,1,125,500,John Doe,Houston,Gift Card
+ORD0085,2024,Qtr 4,December,2,Monday,1,Smartphone,Electronics,500,5,625,2500,Michael Brown,Houston,PayPal
+ORD0395,2025,Qtr 1,March,16,Sunday,0,Smartphone,Electronics,500,4,500,2000,Michael Brown,Houston,Amazon Pay
+ORD0286,2023,Qtr 4,December,7,Thursday,4,Smartphone,Electronics,500,2,250,1000,Daniel Harris,Los Angeles,PayPal
+ORD0474,2025,Qtr 2,April,29,Tuesday,2,Smartphone,Electronics,500,2,250,1000,Daniel Harris,Los Angeles,Gift Card
+ORD0417,2024,Qtr 3,August,28,Wednesday,3,Smartphone,Electronics,500,4,500,2000,Emma Clark,Los Angeles,Gift Card
+ORD0057,2024,Qtr 3,September,15,Sunday,0,Smartphone,Electronics,500,1,125,500,Jane Smith,Los Angeles,Debit Card
+ORD0018,2025,Qtr 2,April,2,Wednesday,3,Smartphone,Electronics,500,2,250,1000,Michael Brown,Los Angeles,Amazon Pay
+ORD0314,2025,Qtr 2,May,17,Saturday,6,Smartphone,Electronics,500,2,250,1000,Michael Brown,Los Angeles,Amazon Pay
+ORD0409,2024,Qtr 3,August,24,Saturday,6,Smartphone,Electronics,500,2,250,1000,Chris White,Miami,Amazon Pay
+ORD0202,2024,Qtr 3,August,21,Wednesday,3,Smartphone,Electronics,500,2,250,1000,Daniel Harris,Miami,Credit Card
+ORD0265,2025,Qtr 1,January,8,Wednesday,3,Smartphone,Electronics,500,1,125,500,Daniel Harris,Miami,PayPal
+ORD0211,2024,Qtr 3,September,13,Friday,5,Smartphone,Electronics,500,1,125,500,David Lee,Miami,Gift Card
+ORD0073,2024,Qtr 3,August,20,Tuesday,2,Smartphone,Electronics,500,5,625,2500,Emily Johnson,Miami,Credit Card
+ORD0063,2024,Qtr 3,September,30,Monday,1,Smartphone,Electronics,500,5,625,2500,Emma Clark,Miami,Gift Card
+ORD0351,2024,Qtr 2,May,29,Wednesday,3,Smartphone,Electronics,500,4,500,2000,Jane Smith,Miami,Credit Card
+ORD0141,2024,Qtr 3,September,21,Saturday,6,Smartphone,Electronics,500,2,250,1000,John Doe,Miami,PayPal
+ORD0008,2024,Qtr 3,August,3,Saturday,6,Smartphone,Electronics,500,1,125,500,Sophia Miller,Miami,PayPal
+ORD0142,2024,Qtr 3,September,15,Sunday,0,Smartphone,Electronics,500,3,375,1500,Sophia Miller,Miami,Gift Card
+ORD0434,2024,Qtr 1,January,13,Saturday,6,Smartphone,Electronics,500,4,500,2000,John Doe,New York,Amazon Pay
+ORD0241,2024,Qtr 3,September,30,Monday,1,Smartphone,Electronics,500,4,500,2000,Olivia Wilson,New York,Credit Card
+ORD0385,2025,Qtr 1,February,28,Friday,5,Smartphone,Electronics,500,3,375,1500,Olivia Wilson,New York,Credit Card
+ORD0306,2025,Qtr 2,April,6,Sunday,0,Smartphone,Electronics,500,2,250,1000,Daniel Harris,San Francisco,Gift Card
+ORD0010,2025,Qtr 2,June,3,Tuesday,2,Smartphone,Electronics,500,1,125,500,Emily Johnson,San Francisco,Credit Card
+ORD0317,2024,Qtr 2,April,25,Thursday,4,Smartphone,Electronics,500,3,375,1500,Michael Brown,San Francisco,Gift Card
+ORD0486,2024,Qtr 4,October,12,Saturday,6,Smartphone,Electronics,500,3,375,1500,David Lee,Seattle,Credit Card
+ORD0250,2024,Qtr 3,August,19,Monday,1,Smartphone,Electronics,500,4,500,2000,Emily Johnson,Seattle,Amazon Pay
+ORD0082,2024,Qtr 3,August,24,Saturday,6,Smartphone,Electronics,500,3,375,1500,Jane Smith,Seattle,Debit Card
+ORD0032,2025,Qtr 2,April,3,Thursday,4,Smartphone,Electronics,500,4,500,2000,Michael Brown,Seattle,PayPal
+ORD0473,2024,Qtr 3,August,10,Saturday,6,Washing Machine,Home Appliances,600,2,240,1200,Michael Brown,Boston,Gift Card
+ORD0026,2024,Qtr 3,August,14,Wednesday,3,Washing Machine,Home Appliances,600,1,120,600,Olivia Wilson,Boston,Debit Card
+ORD0221,2024,Qtr 3,August,28,Wednesday,3,Washing Machine,Home Appliances,600,2,240,1200,Emily Johnson,Chicago,Gift Card
+ORD0416,2025,Qtr 2,April,21,Monday,1,Washing Machine,Home Appliances,600,5,600,3000,Emma Clark,Chicago,Gift Card
+ORD0441,2025,Qtr 1,February,3,Monday,1,Washing Machine,Home Appliances,600,1,120,600,Michael Brown,Chicago,Debit Card
+ORD0402,2025,Qtr 2,April,21,Monday,1,Washing Machine,Home Appliances,600,3,360,1800,Olivia Wilson,Chicago,PayPal
+ORD0384,2023,Qtr 3,July,4,Tuesday,2,Washing Machine,Home Appliances,600,2,240,1200,Chris White,Dallas,Amazon Pay
+ORD0112,2024,Qtr 4,December,3,Tuesday,2,Washing Machine,Home Appliances,600,2,240,1200,David Lee,Dallas,Gift Card
+ORD0030,2025,Qtr 2,April,2,Wednesday,3,Washing Machine,Home Appliances,600,3,360,1800,Emily Johnson,Dallas,Gift Card
+ORD0076,2024,Qtr 3,August,24,Saturday,6,Washing Machine,Home Appliances,600,1,120,600,Jane Smith,Dallas,Amazon Pay
+ORD0415,2023,Qtr 4,December,5,Tuesday,2,Washing Machine,Home Appliances,600,2,240,1200,Olivia Wilson,Dallas,Debit Card
+ORD0460,2024,Qtr 2,June,2,Sunday,0,Washing Machine,Home Appliances,600,5,600,3000,David Lee,Denver,Credit Card
+ORD0459,2024,Qtr 4,November,13,Wednesday,3,Washing Machine,Home Appliances,600,5,600,3000,Jane Smith,Denver,Debit Card
+ORD0160,2024,Qtr 4,December,2,Monday,1,Washing Machine,Home Appliances,600,3,360,1800,Olivia Wilson,Denver,Gift Card
+ORD0166,2024,Qtr 3,September,30,Monday,1,Washing Machine,Home Appliances,600,4,480,2400,Chris White,Houston,Credit Card
+ORD0289,2025,Qtr 2,April,9,Wednesday,3,Washing Machine,Home Appliances,600,5,600,3000,Daniel Harris,Houston,Credit Card
+ORD0392,2024,Qtr 4,December,4,Wednesday,3,Washing Machine,Home Appliances,600,4,480,2400,Daniel Harris,Houston,PayPal
+ORD0401,2025,Qtr 1,January,23,Thursday,4,Washing Machine,Home Appliances,600,3,360,1800,Daniel Harris,Houston,Amazon Pay
+ORD0480,2023,Qtr 3,July,19,Wednesday,3,Washing Machine,Home Appliances,600,2,240,1200,David Lee,Houston,Credit Card
+ORD0083,2024,Qtr 3,August,28,Wednesday,3,Washing Machine,Home Appliances,600,4,480,2400,Emma Clark,Houston,Gift Card
+ORD0382,2024,Qtr 4,November,6,Wednesday,3,Washing Machine,Home Appliances,600,2,240,1200,Michael Brown,Houston,Credit Card
+ORD0458,2024,Qtr 3,July,31,Wednesday,3,Washing Machine,Home Appliances,600,3,360,1800,Michael Brown,Houston,Credit Card
+ORD0268,2023,Qtr 3,July,15,Saturday,6,Washing Machine,Home Appliances,600,3,360,1800,Chris White,Los Angeles,Debit Card
+ORD0151,2024,Qtr 3,September,29,Sunday,0,Washing Machine,Home Appliances,600,4,480,2400,Jane Smith,Los Angeles,Amazon Pay
+ORD0488,2024,Qtr 1,March,25,Monday,1,Washing Machine,Home Appliances,600,2,240,1200,John Doe,Los Angeles,Debit Card
+ORD0297,2024,Qtr 3,September,30,Monday,1,Washing Machine,Home Appliances,600,1,120,600,Emily Johnson,Miami,Credit Card
+ORD0206,2025,Qtr 2,June,2,Monday,1,Washing Machine,Home Appliances,600,5,600,3000,Emma Clark,Miami,Amazon Pay
+ORD0323,2024,Qtr 2,May,15,Wednesday,3,Washing Machine,Home Appliances,600,2,240,1200,Emma Clark,Miami,PayPal
+ORD0485,2024,Qtr 3,August,1,Thursday,4,Washing Machine,Home Appliances,600,2,240,1200,Emma Clark,Miami,Gift Card
+ORD0207,2024,Qtr 3,September,21,Saturday,6,Washing Machine,Home Appliances,600,1,120,600,John Doe,Miami,Credit Card
+ORD0014,2024,Qtr 4,October,3,Thursday,4,Washing Machine,Home Appliances,600,3,360,1800,Michael Brown,Miami,Credit Card
+ORD0271,2024,Qtr 4,October,12,Saturday,6,Washing Machine,Home Appliances,600,3,360,1800,Emma Clark,New York,Gift Card
+ORD0186,2024,Qtr 3,August,3,Saturday,6,Washing Machine,Home Appliances,600,4,480,2400,Michael Brown,New York,PayPal
+ORD0386,2023,Qtr 4,November,7,Tuesday,2,Washing Machine,Home Appliances,600,5,600,3000,Sophia Miller,New York,Amazon Pay
+ORD0328,2024,Qtr 1,February,8,Thursday,4,Washing Machine,Home Appliances,600,5,600,3000,David Lee,San Francisco,Credit Card
+ORD0310,2025,Qtr 1,January,10,Friday,5,Washing Machine,Home Appliances,600,2,240,1200,Emily Johnson,San Francisco,Amazon Pay
+ORD0222,2024,Qtr 3,August,16,Friday,5,Washing Machine,Home Appliances,600,2,240,1200,Chris White,Seattle,PayPal
+ORD0410,2025,Qtr 1,January,26,Sunday,0,Washing Machine,Home Appliances,600,1,120,600,Daniel Harris,Seattle,Credit Card
+ORD0467,2024,Qtr 1,March,13,Wednesday,3,Washing Machine,Home Appliances,600,1,120,600,David Lee,Seattle,PayPal
+ORD0422,2024,Qtr 3,August,8,Thursday,4,Washing Machine,Home Appliances,600,2,240,1200,Emily Johnson,Seattle,PayPal
+ORD0183,2024,Qtr 3,September,25,Wednesday,3,Washing Machine,Home Appliances,600,1,120,600,Emma Clark,Seattle,Debit Card
+ORD0340,2023,Qtr 3,August,3,Thursday,4,Washing Machine,Home Appliances,600,2,240,1200,Emma Clark,Seattle,Amazon Pay
+ORD0099,2024,Qtr 3,August,18,Sunday,0,Washing Machine,Home Appliances,600,5,600,3000,Michael Brown,Seattle,Debit Card
+ORD0461,2025,Qtr 1,January,22,Wednesday,3,Washing Machine,Home Appliances,600,4,480,2400,Michael Brown,Seattle,Amazon Pay
+ORD0258,2023,Qtr 3,August,14,Monday,1,Laptop,Electronics,800,1,200,800,Chris White,Boston,Debit Card
+ORD0312,2024,Qtr 2,April,22,Monday,1,Laptop,Electronics,800,1,200,800,Chris White,Boston,Gift Card
+ORD0373,2024,Qtr 2,May,26,Sunday,0,Laptop,Electronics,800,3,600,2400,Daniel Harris,Boston,Gift Card
+ORD0231,2024,Qtr 3,August,16,Friday,5,Laptop,Electronics,800,5,1000,4000,Jane Smith,Boston,Credit Card
+ORD0362,2024,Qtr 2,April,3,Wednesday,3,Laptop,Electronics,800,2,400,1600,Michael Brown,Boston,Credit Card
+ORD0326,2023,Qtr 3,July,30,Sunday,0,Laptop,Electronics,800,2,400,1600,Chris White,Chicago,Credit Card
+ORD0445,2025,Qtr 1,February,11,Tuesday,2,Laptop,Electronics,800,3,600,2400,David Lee,Chicago,Credit Card
+ORD0450,2024,Qtr 4,December,1,Sunday,0,Laptop,Electronics,800,1,200,800,Emma Clark,Chicago,Credit Card
+ORD0038,2024,Qtr 3,September,26,Thursday,4,Laptop,Electronics,800,3,600,2400,Olivia Wilson,Chicago,Amazon Pay
+ORD0282,2023,Qtr 4,October,25,Wednesday,3,Laptop,Electronics,800,1,200,800,Sophia Miller,Chicago,Debit Card
+ORD0339,2023,Qtr 3,September,19,Tuesday,2,Laptop,Electronics,800,5,1000,4000,Sophia Miller,Dallas,PayPal
+ORD0120,2024,Qtr 3,August,16,Friday,5,Laptop,Electronics,800,5,1000,4000,Emily Johnson,Denver,PayPal
+ORD0035,2024,Qtr 3,August,4,Sunday,0,Laptop,Electronics,800,3,600,2400,Emma Clark,Denver,Amazon Pay
+ORD0139,2024,Qtr 3,September,18,Wednesday,3,Laptop,Electronics,800,2,400,1600,Michael Brown,Denver,PayPal
+ORD0254,2024,Qtr 3,August,17,Saturday,6,Laptop,Electronics,800,4,800,3200,Michael Brown,Denver,Credit Card
+ORD0072,2025,Qtr 1,January,3,Friday,5,Laptop,Electronics,800,3,600,2400,Daniel Harris,Houston,Credit Card
+ORD0091,2024,Qtr 3,September,2,Monday,1,Laptop,Electronics,800,4,800,3200,Daniel Harris,Houston,Gift Card
+ORD0354,2024,Qtr 4,October,24,Thursday,4,Laptop,Electronics,800,3,600,2400,Daniel Harris,Houston,Credit Card
+ORD0189,2025,Qtr 2,April,2,Wednesday,3,Laptop,Electronics,800,3,600,2400,Jane Smith,Houston,Amazon Pay
+ORD0111,2024,Qtr 3,September,30,Monday,1,Laptop,Electronics,800,4,800,3200,Emma Clark,Los Angeles,Credit Card
+ORD0116,2024,Qtr 3,September,19,Thursday,4,Laptop,Electronics,800,4,800,3200,Emma Clark,Los Angeles,Amazon Pay
+ORD0213,2024,Qtr 4,December,2,Monday,1,Laptop,Electronics,800,1,200,800,Jane Smith,Los Angeles,Amazon Pay
+ORD0245,2024,Qtr 4,October,2,Wednesday,3,Laptop,Electronics,800,1,200,800,Michael Brown,Los Angeles,Credit Card
+ORD0431,2023,Qtr 4,November,7,Tuesday,2,Laptop,Electronics,800,3,600,2400,Sophia Miller,Los Angeles,Debit Card
+ORD0158,2024,Qtr 3,August,24,Saturday,6,Laptop,Electronics,800,3,600,2400,Chris White,Miami,Debit Card
+ORD0322,2025,Qtr 2,April,6,Sunday,0,Laptop,Electronics,800,3,600,2400,Chris White,Miami,Credit Card
+ORD0122,2024,Qtr 3,September,28,Saturday,6,Laptop,Electronics,800,3,600,2400,John Doe,Miami,Credit Card
+ORD0301,2024,Qtr 1,February,13,Tuesday,2,Laptop,Electronics,800,1,200,800,John Doe,Miami,Amazon Pay
+ORD0168,2024,Qtr 3,September,24,Tuesday,2,Laptop,Electronics,800,5,1000,4000,Michael Brown,Miami,Debit Card
+ORD0327,2024,Qtr 2,April,26,Friday,5,Laptop,Electronics,800,4,800,3200,Chris White,New York,PayPal
+ORD0421,2024,Qtr 1,March,8,Friday,5,Laptop,Electronics,800,4,800,3200,Daniel Harris,New York,Amazon Pay
+ORD0133,2024,Qtr 3,August,23,Friday,5,Laptop,Electronics,800,1,200,800,Emily Johnson,New York,Amazon Pay
+ORD0210,2024,Qtr 3,September,23,Monday,1,Laptop,Electronics,800,3,600,2400,Jane Smith,New York,PayPal
+ORD0412,2023,Qtr 4,October,30,Monday,1,Laptop,Electronics,800,3,600,2400,Jane Smith,New York,Debit Card
+ORD0432,2024,Qtr 3,August,21,Wednesday,3,Laptop,Electronics,800,4,800,3200,Jane Smith,New York,Credit Card
+ORD0187,2024,Qtr 3,September,13,Friday,5,Laptop,Electronics,800,3,600,2400,John Doe,New York,PayPal
+ORD0350,2024,Qtr 2,June,12,Wednesday,3,Laptop,Electronics,800,1,200,800,Olivia Wilson,New York,Credit Card
+ORD0469,2024,Qtr 2,June,26,Wednesday,3,Laptop,Electronics,800,5,1000,4000,Olivia Wilson,New York,Credit Card
+ORD0013,2024,Qtr 3,July,3,Wednesday,3,Laptop,Electronics,800,2,400,1600,Daniel Harris,San Francisco,Gift Card
+ORD0170,2024,Qtr 3,August,28,Wednesday,3,Laptop,Electronics,800,1,200,800,Emma Clark,San Francisco,Gift Card
+ORD0052,2024,Qtr 3,August,24,Saturday,6,Laptop,Electronics,800,3,600,2400,John Doe,San Francisco,Credit Card
+ORD0039,2024,Qtr 3,August,3,Saturday,6,Laptop,Electronics,800,2,400,1600,Olivia Wilson,San Francisco,PayPal
+ORD0062,2025,Qtr 2,April,2,Wednesday,3,Laptop,Electronics,800,5,1000,4000,Olivia Wilson,San Francisco,PayPal
+ORD0491,2025,Qtr 1,March,6,Thursday,4,Laptop,Electronics,800,5,1000,4000,Chris White,Seattle,Debit Card
+ORD0347,2024,Qtr 1,March,8,Friday,5,Laptop,Electronics,800,5,1000,4000,Daniel Harris,Seattle,Gift Card
+ORD0198,2024,Qtr 3,August,20,Tuesday,2,Laptop,Electronics,800,4,800,3200,Jane Smith,Seattle,Amazon Pay
+ORD0264,2025,Qtr 1,March,8,Saturday,6,Refrigerator,Home Appliances,1200,2,480,2400,Daniel Harris,Boston,Gift Card
+ORD0069,2024,Qtr 3,August,25,Sunday,0,Refrigerator,Home Appliances,1200,4,960,4800,David Lee,Boston,Gift Card
+ORD0180,2024,Qtr 4,October,3,Thursday,4,Refrigerator,Home Appliances,1200,3,720,3600,David Lee,Boston,Gift Card
+ORD0478,2025,Qtr 1,January,9,Thursday,4,Refrigerator,Home Appliances,1200,3,720,3600,David Lee,Boston,PayPal
+ORD0494,2024,Qtr 1,March,16,Saturday,6,Refrigerator,Home Appliances,1200,5,1200,6000,David Lee,Boston,Amazon Pay
+ORD0433,2023,Qtr 3,July,9,Sunday,0,Refrigerator,Home Appliances,1200,5,1200,6000,Jane Smith,Boston,Gift Card
+ORD0016,2024,Qtr 3,August,26,Monday,1,Refrigerator,Home Appliances,1200,1,240,1200,John Doe,Boston,Credit Card
+ORD0290,2024,Qtr 1,February,17,Saturday,6,Refrigerator,Home Appliances,1200,3,720,3600,Olivia Wilson,Boston,Amazon Pay
+ORD0036,2025,Qtr 1,March,2,Sunday,0,Refrigerator,Home Appliances,1200,2,480,2400,Sophia Miller,Boston,PayPal
+ORD0126,2024,Qtr 4,October,2,Wednesday,3,Refrigerator,Home Appliances,1200,5,1200,6000,Olivia Wilson,Chicago,Gift Card
+ORD0024,2024,Qtr 3,September,24,Tuesday,2,Refrigerator,Home Appliances,1200,3,720,3600,Chris White,Dallas,Credit Card
+ORD0235,2024,Qtr 3,September,23,Monday,1,Refrigerator,Home Appliances,1200,1,240,1200,Daniel Harris,Dallas,PayPal
+ORD0315,2024,Qtr 1,January,13,Saturday,6,Refrigerator,Home Appliances,1200,3,720,3600,David Lee,Dallas,Credit Card
+ORD0377,2024,Qtr 4,December,2,Monday,1,Refrigerator,Home Appliances,1200,3,720,3600,Emma Clark,Dallas,PayPal
+ORD0074,2024,Qtr 3,September,25,Wednesday,3,Refrigerator,Home Appliances,1200,4,960,4800,Jane Smith,Dallas,Gift Card
+ORD0143,2024,Qtr 3,September,30,Monday,1,Refrigerator,Home Appliances,1200,2,480,2400,Jane Smith,Dallas,PayPal
+ORD0203,2024,Qtr 3,August,21,Wednesday,3,Refrigerator,Home Appliances,1200,3,720,3600,John Doe,Dallas,Debit Card
+ORD0464,2024,Qtr 1,March,7,Thursday,4,Refrigerator,Home Appliances,1200,1,240,1200,John Doe,Dallas,PayPal
+ORD0093,2024,Qtr 4,December,3,Tuesday,2,Refrigerator,Home Appliances,1200,5,1200,6000,David Lee,Denver,PayPal
+ORD0299,2025,Qtr 1,February,7,Friday,5,Refrigerator,Home Appliances,1200,5,1200,6000,David Lee,Denver,PayPal
+ORD0400,2024,Qtr 1,February,16,Friday,5,Refrigerator,Home Appliances,1200,4,960,4800,David Lee,Denver,Gift Card
+ORD0064,2024,Qtr 3,August,13,Tuesday,2,Refrigerator,Home Appliances,1200,4,960,4800,Emily Johnson,Denver,PayPal
+ORD0253,2025,Qtr 1,March,4,Tuesday,2,Refrigerator,Home Appliances,1200,4,960,4800,Jane Smith,Denver,Gift Card
+ORD0378,2024,Qtr 1,March,25,Monday,1,Refrigerator,Home Appliances,1200,3,720,3600,Jane Smith,Denver,PayPal
+ORD0169,2024,Qtr 4,December,3,Tuesday,2,Refrigerator,Home Appliances,1200,2,480,2400,John Doe,Denver,PayPal
+ORD0383,2025,Qtr 1,February,18,Tuesday,2,Refrigerator,Home Appliances,1200,3,720,3600,Michael Brown,Denver,Amazon Pay
+ORD0397,2024,Qtr 4,October,26,Saturday,6,Refrigerator,Home Appliances,1200,1,240,1200,Daniel Harris,Houston,Gift Card
+ORD0476,2025,Qtr 1,January,18,Saturday,6,Refrigerator,Home Appliances,1200,4,960,4800,Emily Johnson,Houston,Gift Card
+ORD0398,2024,Qtr 1,March,20,Wednesday,3,Refrigerator,Home Appliances,1200,2,480,2400,Jane Smith,Houston,Debit Card
+ORD0022,2025,Qtr 1,January,3,Friday,5,Refrigerator,Home Appliances,1200,4,960,4800,Olivia Wilson,Houston,Credit Card
+ORD0319,2025,Qtr 1,January,5,Sunday,0,Refrigerator,Home Appliances,1200,1,240,1200,Chris White,Los Angeles,PayPal
+ORD0313,2023,Qtr 3,July,27,Thursday,4,Refrigerator,Home Appliances,1200,4,960,4800,Emily Johnson,Los Angeles,Gift Card
+ORD0232,2024,Qtr 3,September,14,Saturday,6,Refrigerator,Home Appliances,1200,3,720,3600,Emma Clark,Los Angeles,Credit Card
+ORD0419,2025,Qtr 2,May,7,Wednesday,3,Refrigerator,Home Appliances,1200,4,960,4800,Emma Clark,Los Angeles,Debit Card
+ORD0365,2024,Qtr 4,October,20,Sunday,0,Refrigerator,Home Appliances,1200,2,480,2400,Michael Brown,Los Angeles,Amazon Pay
+ORD0281,2024,Qtr 3,September,13,Friday,5,Refrigerator,Home Appliances,1200,5,1200,6000,Olivia Wilson,Los Angeles,Gift Card
+ORD0224,2024,Qtr 3,September,18,Wednesday,3,Refrigerator,Home Appliances,1200,1,240,1200,Jane Smith,Miami,PayPal
+ORD0208,2024,Qtr 3,August,2,Friday,5,Refrigerator,Home Appliances,1200,3,720,3600,John Doe,Miami,PayPal
+ORD0492,2023,Qtr 3,August,11,Friday,5,Refrigerator,Home Appliances,1200,3,720,3600,Chris White,New York,Credit Card
+ORD0045,2024,Qtr 3,September,15,Sunday,0,Refrigerator,Home Appliances,1200,3,720,3600,Daniel Harris,New York,Credit Card
+ORD0287,2024,Qtr 2,April,30,Tuesday,2,Refrigerator,Home Appliances,1200,2,480,2400,Emma Clark,New York,Amazon Pay
+ORD0061,2025,Qtr 2,May,3,Saturday,6,Refrigerator,Home Appliances,1200,1,240,1200,Jane Smith,New York,PayPal
+ORD0335,2024,Qtr 2,June,29,Saturday,6,Refrigerator,Home Appliances,1200,1,240,1200,Jane Smith,New York,Credit Card
+ORD0136,2025,Qtr 2,May,2,Friday,5,Refrigerator,Home Appliances,1200,2,480,2400,Daniel Harris,San Francisco,PayPal
+ORD0278,2024,Qtr 4,October,15,Tuesday,2,Refrigerator,Home Appliances,1200,5,1200,6000,Daniel Harris,San Francisco,Debit Card
+ORD0440,2024,Qtr 3,August,19,Monday,1,Refrigerator,Home Appliances,1200,1,240,1200,Daniel Harris,San Francisco,Credit Card
+ORD0251,2023,Qtr 4,December,13,Wednesday,3,Refrigerator,Home Appliances,1200,2,480,2400,Emily Johnson,San Francisco,PayPal
+ORD0257,2024,Qtr 4,December,3,Tuesday,2,Refrigerator,Home Appliances,1200,2,480,2400,Emma Clark,San Francisco,PayPal
+ORD0359,2024,Qtr 2,April,29,Monday,1,Refrigerator,Home Appliances,1200,2,480,2400,Emma Clark,San Francisco,Credit Card
+ORD0465,2024,Qtr 1,March,22,Friday,5,Refrigerator,Home Appliances,1200,3,720,3600,Jane Smith,San Francisco,Debit Card
+ORD0477,2024,Qtr 1,March,11,Monday,1,Refrigerator,Home Appliances,1200,2,480,2400,Sophia Miller,San Francisco,Debit Card
+ORD0088,2024,Qtr 4,December,2,Monday,1,Refrigerator,Home Appliances,1200,2,480,2400,Chris White,Seattle,Debit Card
+ORD0425,2024,Qtr 4,October,26,Saturday,6,Refrigerator,Home Appliances,1200,1,240,1200,John Doe,Seattle,Gift Card
+ORD0167,2024,Qtr 3,September,20,Friday,5,Refrigerator,Home Appliances,1200,2,480,2400,Olivia Wilson,Seattle,Credit Card
+ORD0173,2024,Qtr 3,August,28,Wednesday,3,Refrigerator,Home Appliances,1200,1,240,1200,Olivia Wilson,Seattle,PayPal
+ORD0155,2024,Qtr 4,November,2,Saturday,6,Refrigerator,Home Appliances,1200,4,960,4800,Sophia Miller,Seattle,Credit Card
